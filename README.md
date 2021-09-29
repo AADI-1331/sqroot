@@ -12,6 +12,6 @@ The output of the program should be:
 
 # Contributors
 
-<a href="https://github.com/AADI-1331/sqroot/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=AADI-1331/sqroot" />
+<a href="https://github.com/Aditi270/sqroot/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=Aditi270/sqroot" />
 </a>
