@@ -10,8 +10,5 @@ Let us assume the following comma separated input sequence is given to the progr
 The output of the program should be:
 18,22,24
 
-# Contributors
 
-<a href="https://github.com/Aditi270/sqroot/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=Aditi270/sqroot" />
-</a>
+
