@@ -9,3 +9,9 @@ Let us assume the following comma separated input sequence is given to the progr
 100,150,180
 The output of the program should be:
 18,22,24
+
+# Contributors
+
+<a href="https://github.com/AADI-1331/sqroot/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=AADI-1331/sqroot" />
+</a>
